@@ -1,0 +1,16 @@
+{
+  "name": "GlucoCompte",
+  "short_name": "GlucoCompte",
+  "description": "Compter les glucides d'un repas, même hors connexion.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F4FB",
+  "theme_color": "#5B3FD9",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
